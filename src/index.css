@@ -1,0 +1,39 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.body {
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer utilities {
+  .absolute-center {
+    @apply absolute left-1/2 top-1/2 -translate-y-1/2 -translate-x-1/2;
+  }
+  .form-input {
+    @apply w-full border-b-primary-400 border-b-2 py-2 px-1 outline-none focus:bg-primary-100/10 font-sans;
+  }
+}
+
+.animate-heart {
+  animation: animate-heart 1000ms ease-in-out infinite;
+}
+
+@keyframes animate-heart {
+  0% {
+    scale: 90%;
+  }
+  50% {
+    scale: 100%;
+  }
+  100% {
+    scale: 90%;
+  }
+}

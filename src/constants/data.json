@@ -1,0 +1,449 @@
+[
+  {
+    "slug": "/",
+    "title": "Home"
+  },
+  {
+    "slug": "about-us",
+    "title": "About Us"
+  },
+  {
+    "slug": "services",
+    "title": "Services",
+    "subItems": [
+      {
+        "title": "Funding Consultancy",
+        "slug": "funding-consultancy",
+        "description": "This service category focuses on providing assistance and guidance in securing funding for various purposes, such as business expansion or project financing.",
+        "categories": [
+          {
+            "title": "Private equity/ Joint Venture",
+            "image": "/assets/1_Loan.webp",
+            "slug": "private-equity-joint-venture",
+            "description": "Evaluating client's business goals, financial health and growth potential to determine suitability for Joint Venture and Private Equity involvement and also staying updated on market trends, regulatory changes and emerging best practices."
+          },
+          {
+            "title": "Loan and other related",
+            "image": "/assets/1_privateEquity.webp",
+            "slug": "loan-and-other-related",
+            "description": "Arrangement of the different types of loans the bank will offer, such as Personal loan, Business loan or mortgage loan with appropriate terms and conditions of loan including interest rate, repayment periods and collateral requirements."
+          }
+        ]
+      },
+      {
+        "title": "Investment Consultancy",
+        "slug": "investment-consultancy",
+        "description": "This category involves services related to investment analysis, project identification, mergers and acquisitions, business valuation, and venture funding.",
+        "categories": [
+          {
+            "title": "Project Identification, Development and Analysis",
+            "image": "/assets/2_projectIdentification.webp",
+            "slug": "project-identification-development-analysis",
+            "description": "We specialize in identifying investment projects through meticulous assessment and analysis of economic data, uncovering promising avenues for investment with thoroughness and precision. Our expertise ensures that every potential investment is evaluated with a keen eye for opportunity and risk, helping clients make informed decisions."
+          },
+          {
+            "title": "PMS Consultancy",
+            "image": "/assets/2_consultancy.webp",
+            "slug": "pms-consultancy",
+            "description": "We help in building and managing investment portfolios on behalf of clients, utilizing a mix of asset classes such as equities, fixed income, alternative investments, and cash equivalents. Our services include assisting organizations in developing comprehensive budgets and forecasts aligned with their strategic goals and performance objectives, ensuring that their financial planning is robust and adaptable to changing market conditions."
+          },
+          {
+            "title": "Merger and Acquisition Consultancy",
+            "image": "/assets/2_MergerAcquisition.webp",
+            "slug": "merger-and-acquisition-consultancy",
+            "description": "We assist in developing comprehensive merger and acquisition strategies tailored to clients' business goals and objectives. Our team ensures strict confidentiality and discretion throughout the process to protect clients' sensitive information and minimize the risk of market exposure. We provide end-to-end support, from initial strategy development to post-merger integration, ensuring smooth and successful transactions."
+          },
+          {
+            "title": "Business Valuation",
+            "image": "/assets/2_BusinessValuation.webp",
+            "slug": "business-valuation",
+            "description": "We help select appropriate valuation methodologies based on the company's characteristics, industry dynamics, and the purpose of valuation. Our services assist companies and investors in making informed decisions based on reliable valuation assessments, ensuring that the true worth of a business is understood and leveraged in strategic planning and negotiations."
+          },
+          {
+            "title": "Venture Funding",
+            "image": "/assets/2_ventureFunding.webp",
+            "slug": "venture-funding",
+            "description": "We play a crucial role in providing financial backing, strategic guidance, and facilitating access to extensive networks. Our services connect clients with venture capital firms, ensuring optimal support for ventures seeking funding and growth opportunities. We assist in every step of the process, from preparing pitches to negotiating terms, helping entrepreneurs secure the resources they need to scale their businesses."
+          }
+        ]
+      },
+      {
+        "title": "Management Consultancy",
+        "slug": "management-consultancy",
+        "description": "Services in this category encompass strategic planning, human resource management, restructuring, internal control, business modeling, organizational structure development, and policy development.",
+        "categories": [
+          {
+            "title": "Management Consultancy",
+            "image": "/assets/3_1_Management_Consultancy.webp",
+            "slug": "management-consultancy",
+            "description": "Assist in developing strategic plans, business models, and growth strategies aligned with company goals. Conducts in-depth financial analysis to assess the company's performance, profitability, and financial health. Our consultancy services provide a roadmap for sustainable growth and long-term success, helping businesses to navigate complex challenges and capitalize on emerging opportunities."
+          },
+          {
+            "title": "Human Resource Consultancy",
+            "image": "/assets/3_2_HR_Consultancy.webp",
+            "slug": "human-resource-consultancy",
+            "description": "Provide guidance on HR policies, procedures, and documentations to mitigate legal risk and ensure adherence to regulatory standards. Design performance management frameworks including goal setting, process, performance appraisal systems, and feedback mechanisms. We provide comprehensive support in recruiting candidates, hiring the right employees, processing payrolls, conducting disciplinary actions, updating policies, maintaining employee records, conducting benefit analysis, and training programs. Additionally, we support recruitment efforts by providing job description's tailored to attract qualified candidates, and we conduct comprehensive analyses of an organization's structure, functions, and strategic objectives to understand its staffing needs."
+          },
+          {
+            "title": "Restructuring Sick Company",
+            "image": "/assets/3_3_Res_sick_company.webp",
+            "slug": "restructuring-sick-company",
+            "description": "Helps to identify root causes of financial distress, including liquidity issues, solvency concerns, operational inefficiencies, and debt burdens. We provide guidance on corporate governance, fiduciary duties, and disclosure obligations to mitigate legal risk and ensure transparency in restructuring efforts. Our approach to restructuring is holistic, addressing both financial and operational challenges to restore the company's health and viability."
+          },
+          {
+            "title": "Internal Control and Risk Management",
+            "image": "/assets/3_4_internal_control_and_risk_Management.webp",
+            "slug": "internal-control-and-risk-management",
+            "description": "Assist in conducting assessments of existing internal control systems to evaluate their effectiveness in mitigating risk and achieving organizational objectives. We help organizations understand and comply with applicable laws, regulations, and industry standards related to internal control and risk management. Our consultancy ensures that organizations have robust controls in place to safeguard their assets, enhance operational efficiency, and minimize exposure to risks."
+          },
+          {
+            "title": "Business Modeling",
+            "image": "/assets/3_5_Business_Modeling.webp",
+            "slug": "business-modeling",
+            "description": "We assist in streamlining workflows, modernizing technology infrastructure, refining marketing strategies, and orchestrating comprehensive business model transformations to drive success and adaptation in a dynamic marketplace. Our team develops comprehensive financial models to forecast future financial performance, including revenue projections, cost estimates, and cash flow analysis. We also provide guidance on financial statement presentation, audit readiness, and disclosure best practices to enhance transparency and credibility."
+          },
+          {
+            "title": "Organizational Structure Development",
+            "image": "/assets/3_6_Organizational_SD.webp",
+            "slug": "organizational-structure-development",
+            "description": "Assist in developing organizational structures, defining hierarchy, governance policies, charters, and procedures to promote transparency, integrity, and ethical conduct within the organization. We help organizations build frameworks that support efficient decision-making, clear communication, and accountability, ensuring that the structure aligns with strategic goals and fosters a positive workplace culture."
+          },
+          {
+            "title": "Policy Development",
+            "image": "/assets/3_7_Policy_Development.webp",
+            "slug": "policy-development",
+            "description": "Assist in designing, drafting, and documenting policies and procedures tailored to organizational needs, objectives, and operating environments. We help businesses develop compliance policies to ensure adherence to laws, regulations, and standards. Our consultancy also includes assessing existing control frameworks, identifying weaknesses or gaps, and recommending enhancements to strengthen control and mitigate risks. Our policy development services ensure that organizations operate within a well-defined framework, minimizing risks and promoting sustainable practices."
+          }
+        ]
+      },
+      {
+        "title": "Information Technology",
+        "slug": "information-technology",
+        "description": "This category covers services related to software development, website designing, hardware and networking, cloud computing, data storage, data analysis, and ERP implementation.",
+        "categories": [
+          {
+            "title": "Software Development",
+            "image": "/assets/4_1_Software_Development.webp",
+            "slug": "software-development",
+            "description": "We offer end-to-end software development services, including custom application development, software maintenance, and support. Our solutions are designed to meet the specific needs of our clients, ensuring scalability, security, and usability across platforms."
+          },
+          {
+            "title": "Website Designing",
+            "image": "/assets/4_2_Web_design.webp",
+            "slug": "website-designing",
+            "description": "Our website designing services focus on creating visually appealing, user-friendly, and responsive websites that enhance the online presence of businesses. We ensure that every website we design is optimized for search engines and provides an excellent user experience."
+          },
+          {
+            "title": "Hardware and Networking",
+            "image": "/assets/4_3_Hardware_and_Networking.webp",
+            "slug": "hardware-and-networking",
+            "description": "We provide comprehensive hardware and networking solutions, including installation, configuration, and maintenance of IT infrastructure. Our services ensure that your hardware and network are reliable, secure, and optimized for performance."
+          },
+          {
+            "title": "Cloud Computing",
+            "image": "/assets/4_4_Cloud_Computing.webp",
+            "slug": "cloud-computing",
+            "description": "Our cloud computing services enable businesses to leverage the power of the cloud for scalability, flexibility, and cost savings. We assist in cloud migration, management, and optimization, ensuring that your cloud infrastructure is secure and efficient."
+          },
+          {
+            "title": "Data Storage",
+            "image": "/assets/4_5_Data_Storage.webp",
+            "slug": "data-storage",
+            "description": "We offer data storage solutions that ensure your data is securely stored, easily accessible, and efficiently managed. Our services include data backup, recovery, and archiving, tailored to meet the specific needs of your organization."
+          },
+          {
+            "title": "Data Analysis",
+            "image": "/assets/4_6_Data_Analysis.webp",
+            "slug": "data-analysis",
+            "description": "Our data analysis services help businesses turn raw data into actionable insights. We use advanced analytics tools and techniques to analyze data, identify trends, and provide recommendations that drive informed decision-making."
+          },
+          {
+            "title": "ERP Implementation",
+            "image": "/assets/4_7_ERP_Implementation.webp",
+            "slug": "erp-implementation",
+            "description": "We specialize in ERP implementation, helping businesses streamline their operations, improve efficiency, and gain better control over their resources. Our ERP solutions are customized to meet the unique requirements of each organization, ensuring a smooth transition and successful deployment."
+          }
+        ]
+      },
+      {
+        "title": "Marketing and Branding",
+        "slug": "marketing-and-branding",
+        "description": "Services in this category involve marketing consultancy, branding consultancy, AI digital marketing, website development, and video and content creation.",
+        "categories": [
+          {
+            "title": "Marketing Consultancy",
+            "image": "/assets/5_1_Marketing_Consultancy.webp",
+            "slug": "marketing-consultancy",
+            "description": "Provides guidance on marketing channels, promotional tactics, and networking opportunities to enhance visibility and attract clients. Our services focus on developing tailored marketing strategies that align with your business goals, ensuring effective engagement with your target audience."
+          },
+          {
+            "title": "Branding Consultancy",
+            "image": "/assets/5_2_Branding_Consultancy.webp",
+            "slug": "branding-consultancy",
+            "description": "Helps clients manage and enhance their brand reputation through proactive reputation management strategies and crisis communication plans. We assist in creating a strong brand identity, ensuring consistency across all platforms, and building a loyal customer base."
+          },
+          {
+            "title": "AI Digital Marketing",
+            "image": "/assets/5_3_AI_Digital_Marketing.webp",
+            "slug": "ai-digital-marketing",
+            "description": "We utilize advanced AI tools and technologies to optimize digital marketing campaigns, analyze consumer behavior, and automate customer interactions. Our AI-driven strategies help in improving marketing efficiency, targeting accuracy, and ROI."
+          },
+          {
+            "title": "Website Development",
+            "image": "/assets/5_4_Website_Development.webp",
+            "slug": "website-development",
+            "description": "Our website development services are focused on creating responsive, user-friendly, and visually appealing websites that effectively communicate your brand message. We ensure that your website is optimized for performance, SEO, and user experience."
+          },
+          {
+            "title": "Video and Content Creation",
+            "image": "/assets/5_5_Video_and_Content_Creation.webp",
+            "slug": "video-and-content-creation",
+            "description": "We specialize in producing high-quality video content and written materials that resonate with your audience. Our content creation services cover everything from scriptwriting and video production to blog writing and social media content, helping you engage and captivate your target market."
+          }
+        ]
+      },
+      {
+        "title": "Legal Consultancy",
+        "slug": "legal-consultancy",
+        "description": "This category offers legal advisory services such as company legal consultancy, company registration, company liquidation, tax-related disputes, legal suits, statutory compliance, and solicitor-related jobs.",
+        "categories": [
+          {
+            "title": "Company Legal Consultancy",
+            "image": "/assets/6_1_Company_Legal_Consultancy.webp",
+            "slug": "company-legal-consultancy",
+            "description": "Advice on the most suitable legal structure for businesses based on their objectives, size, and industry. Helps businesses establish robust corporate governance frameworks and comply with corporate law and regulations."
+          },
+          {
+            "title": "Company Registration and Business License related Consultancy",
+            "image": "/assets/6_2_Company_Registration.webp",
+            "slug": "company-registration-business-license-consultancy",
+            "description": "Assists in the registration of businesses with the appropriate authorities such as the registrar of companies or similar regulatory bodies. Provides expert guidance to ensure compliance with all necessary legal and regulatory requirements during the registration process."
+          },
+          {
+            "title": "Company Liquidation Consultancy",
+            "image": "/assets/6_3_Company_Liquidation_Consultancy.webp",
+            "slug": "company-liquidation-consultancy",
+            "description": "Guides the company through the formal liquidation process. Provides regular updates, progress reports, and financial statements to stakeholders to maintain transparency and manage expectations during the winding-up of the company."
+          },
+          {
+            "title": "Filing Tax related disputes",
+            "image": "/assets/6_4_Filing_Tax_related_disputes.webp",
+            "slug": "filing-tax-disputes",
+            "description": "Assists individuals and businesses in planning their taxes efficiently by analyzing financial situations, helps to prepare and file tax returns, conduct tax compliance reviews, and assist in filing appeals and resolving disputes through negotiation or litigation."
+          },
+          {
+            "title": "Legal Suits",
+            "image": "/assets/6_5_Legal_suits.webp",
+            "slug": "legal-suits",
+            "description": "Conducts detailed financial analysis, investigates financial records to uncover evidence of fraud or financial wrongdoing, and assists clients in dispute resolution such as arbitration. Provides expert opinions on fraudulent activities and represents clients in legal proceedings."
+          },
+          {
+            "title": "Statutory Compliance",
+            "image": "/assets/6_6_Statutory_Compliance.webp",
+            "slug": "statutory-compliance",
+            "description": "Helps in developing and updating policies and procedures to ensure compliance with statutory requirements by drafting policies, conducting risk assessments to identify potential compliance risks, and representing the organization in dealing with regulatory authorities."
+          },
+          {
+            "title": "Solicit related jobs",
+            "image": "/assets/6_7_Statutory_Compliance.webp",
+            "slug": "solicit-related-jobs",
+            "description": "Provides legal advisory services in areas such as taxation law, corporate law, and employment law. Assists with legal analysis, reviewing documents, and offering expert testimony in court proceedings to ensure clients' legal interests are protected."
+          }
+        ]
+      },
+      {
+        "title": "Financial Consultancy",
+        "slug": "financial-consultancy",
+        "description": "Services in this category include cost management, data and ratio analysis, risk assessment, long-term investment planning, goal setting and planning, cost-benefit analysis, due diligence audit projects, financial feasibility analysis, and business restructuring.",
+        "categories": [
+          {
+            "title": "Cost Management",
+            "image": "/assets/7_1_Cost_Management.webp",
+            "slug": "cost-management",
+            "description": "We're your cost companions, transforming numbers into stories. With us, you'll unravel the mysteries of expenses, painting a clear picture of your financial landscape. We'll help you sculpt budgets, predict future costs, and keep a watchful eye on spending."
+          },
+          {
+            "title": "Data & Ratio Analysis",
+            "image": "/assets/7_2_Data_Analysis.webp",
+            "slug": "data-ratio-analysis",
+            "description": "Assist clients in gathering relevant financial data from various sources such as financial statements, accounting records, and other financial reports. Help to provide clients with reliable data analysis and financial insights to support decision-making processes such as investment decision, strategic planning, mergers and acquisitions, and financial restructuring."
+          },
+          {
+            "title": "Risk Assessment",
+            "image": "/assets/7_3_Risk_Assessment.webp",
+            "slug": "risk-assessment",
+            "description": "Helps businesses proactively identify, assess, and mitigate risk enhancing their resilience, competitiveness, and long-term sustainability in an uncertain business environment."
+          },
+          {
+            "title": "Long Investment Planning",
+            "image": "/assets/7_4_Long_Investment_Planning.webp",
+            "slug": "long-investment-planning",
+            "description": "Helps to identify and prioritize long-term financial goals such as retirement plans, wealth accumulation, or estate planning."
+          },
+          {
+            "title": "Goal Setting and Planning (Budgeting)",
+            "image": "/assets/7_5_Goal_Setting_and_Planning.webp",
+            "slug": "goal-setting-planning-budgeting",
+            "description": "Help to set clear financial goals, develop actionable plans, and navigate the path toward financial success and prosperity. Help in developing effective variance analysis by monitoring actual performance, conducting variance analysis, identifying root causes, and taking corrective and preventive actions to align performance with budgetary expectations."
+          },
+          {
+            "title": "Cost-Benefit Analysis",
+            "image": "/assets/7_6_Cost_Benefit_Analysis.webp",
+            "slug": "cost-benefit-analysis",
+            "description": "Helps businesses and organizations make data-driven decisions, prioritize investment, allocate resources efficiently, and maximize returns on investment while minimizing risk and uncertainty."
+          },
+          {
+            "title": "Due Diligence Audit Project",
+            "image": "/assets/7_7_Due_Diligence_Audit_Project.webp",
+            "slug": "due-diligence-audit-project",
+            "description": "Examine the target company's financial statement, including balance sheets, income statements, and cash flow statements to assess its financial health, performance, and stability. Identify any tax exposures, risks, or contingencies that could impact the transaction structure or valuation and provide comprehensive due diligence reports summarizing findings, analysis, and recommendations for the client."
+          },
+          {
+            "title": "Financial Feasibility Analysis",
+            "image": "/assets/7_8_Financial_Feasibility_Analysis.webp",
+            "slug": "financial-feasibility-analysis",
+            "description": "Helps in developing sophisticated models to forecast the potential financial performance of the proposed project or investment. Identify and assess various financial risks associated with the proposed project, including market risk, credit risk, operational risk, regulatory risk, financial risk, and prepare feasibility reports summarizing the financial analysis findings, assumptions, methodologies, and recommendations for the project clients."
+          },
+          {
+            "title": "Business Restructuring",
+            "image": "/assets/7_9_Business_Restructuring.webp",
+            "slug": "business-restructuring",
+            "description": "Prepare financial projections and forecasts to assess the potential impact of restructuring initiatives on the company's financial performance, capital structure, cash flow dynamics and help clients to develop restructuring strategy aligned with the company's objectives, market dynamics, and evaluate various restructuring options such as cost reduction initiatives, debt restructuring, business model redesign, mergers, acquisitions, or strategic alliances."
+          }
+        ]
+      },
+      {
+        "title": "Accounting Consultancy",
+        "slug": "accounting-consultancy",
+        "description": "This category provides services such as accounting services, accounting training, tax return preparation, audit support, software implementation support, financial reporting, and statutory compliance.",
+        "categories": [
+          {
+            "title": "Accounting Services",
+            "image": "/assets/8_1_Accounting_Services.webp",
+            "slug": "accounting-services",
+            "description": "Assist in examination of company's financial statements and accounting records to ensure accuracy, completeness, and compliance with relevant accounting standards and regulations. Helps in Book Keeping. Assists businesses in ensuring compliance with various regulatory requirements, including tax laws, industry-specific regulations, and accounting standards such as Generally Accepted Accounting Principles (GAAP) or Nepal Financial Reporting Standards (NFRS)."
+          },
+          {
+            "title": "Accounting Training",
+            "image": "/assets/8_2_Accounting_Training.webp",
+            "slug": "accounting-training",
+            "description": "Provides comprehensive technical training programs covering various aspects of accounting, auditing, and financial reporting through seminars, webinars and also training on a particular accounting software, implementing new accounting standards or addressing specific challenges faced by the organization."
+          },
+          {
+            "title": "Tax Return (VAT, TDS, Income Tax)",
+            "image": "/assets/8_3_Tax_Return.webp",
+            "slug": "tax-return",
+            "description": "Help businesses and individuals prepare and file their tax returns accurately and in compliance with applicable tax laws and regulations and assists them in complying with VAT regulations by ensuring proper VAT registration, timely filing of VAT returns, accurate calculation and reporting of VAT liabilities and compliance with VAT invoicing and record-keeping requirements."
+          },
+          {
+            "title": "Audit Support",
+            "image": "/assets/8_4_Audit_Support.webp",
+            "slug": "audit-support",
+            "description": "Helps in planning and execution of the audit process through developing an audit plan tailored to the specific needs and risks of the clients, determining the scope of the audit, the procedures to be performed, and the resources required. Provide assurance to stakeholders that the financial statements are presented fairly and in accordance with applicable accounting standards."
+          },
+          {
+            "title": "Software Implementation Support",
+            "image": "/assets/8_5_Software_Implementation_Support.webp",
+            "slug": "software-implementation-support",
+            "description": "Helps in the selection of software by evaluating various options based on factors such as functionality and cost, provide project management support to ensure smooth and timely implementation of the software and assist in managing the changes associated with software implementation by communicating with stakeholders, addressing concerns, and facilitating programs to ensure a smooth transition to the new systems."
+          },
+          {
+            "title": "Financial Reporting",
+            "image": "/assets/8_6_Financial_Reporting.webp",
+            "slug": "financial-reporting",
+            "description": "Prepare financial statements such as the income statement, balance sheet, and cash flow statements and help to summarize the financial performance, position, and cash flows of the firm over a specified period, providing valuable information to clients. Implement internal controls to safeguard assets, maintain data integrity, and ensure the reliability of financial reporting."
+          },
+          {
+            "title": "Statutory Compliance",
+            "image": "/assets/8_7_Statutory_Compliance.webp",
+            "slug": "statutory-compliance",
+            "description": "Assist in implementing and adhering to accounting standards such as Generally Accepted Accounting Principles (GAAP) or Nepal Financial Reporting Standard (NFRS). Advise on corporate governance practices to ensure transparency, accountability, and integrity in financial reporting and decision-making processes."
+          }
+        ]
+      },
+      {
+        "title": "Engineering Consulting",
+        "slug": "engineering-consulting",
+        "description": "This category offers services such as design, BOQ (Bill of Quantities) preparation, DPR (Detailed Project Report) preparation, IEF (Initial Environmental Examination)/EIA (Environmental Impact Assessment) report preparation, and property valuation.",
+        "categories": [
+          {
+            "title": "Design",
+            "image": "/assets/10_0_Design.webp",
+            "description": "Offers comprehensive design services including planning and conceptualization for various engineering projects. Ensures design solutions meet client specifications, comply with relevant standards, and are feasible within project constraints."
+          },
+          {
+            "title": "BOQ Preparation",
+            "image": "/assets/10_1_BOQ_Preparation.webp",
+            "description": "Prepares detailed Bills of Quantities (BOQ) for construction projects, listing all materials, labor, and other costs involved. Helps in accurate cost estimation, budgeting, and project management."
+          },
+          {
+            "title": "DPR Preparation",
+            "image": "/assets/10_2_DPR_Preparation.webp",
+            "description": "Creates Detailed Project Reports (DPR) outlining the scope, objectives, and methodology of engineering projects. Includes feasibility studies, technical specifications, and project timelines."
+          },
+          {
+            "title": "IEF/EIA Report Preparation",
+            "image": "/assets/10_3_EIA_Report_Preparation.webp",
+            "description": "Prepares Initial Environmental Examination (IEF) or Environmental Impact Assessment (EIA) reports to evaluate the environmental impacts of projects. Ensures compliance with environmental regulations and helps in sustainable project planning."
+          },
+          {
+            "title": "Property Valuation",
+            "image": "/assets/10_4_Property_Valuation.webp",
+            "description": "Develops financial models to estimate property values based on income, cost, and sales comparison approaches. Considers factors like rental income, operating expenses, capitalization rates, and market comparables for accurate valuations."
+          }
+        ]
+      },
+      {
+        "title": "Aviation Consulting",
+        "slug": "aviation-consulting",
+        "description": "Services in this category involve aviation parts consultancy, aircraft analysis, sector field analysis, revenue/cost management, sector planning, receivable/payable management, and payroll management.",
+        "categories": [
+          {
+            "title": "Aviation Parts",
+            "image": "/assets/11_1_Aviation_Parts.webp",
+            "description": "Provides expert consultancy on aviation parts, including sourcing, compliance, and quality assurance. Ensures parts meet industry standards and regulations."
+          },
+          {
+            "title": "Aircraft Analysis",
+            "image": "/assets/11_2_Aircraft_Analysis.webp",
+            "description": "Conducts detailed analysis of aircraft performance, safety, and maintenance records. Provides insights into operational efficiency and compliance with aviation regulations."
+          },
+          {
+            "title": "Sector Field Analysis",
+            "image": "/assets/11_3_Sector_Field_Analysis.webp",
+            "description": "Analyzes the aviation sector to identify trends, opportunities, and challenges. Provides strategic recommendations based on market research and sector data."
+          },
+          {
+            "title": "Revenue/ Cost Management",
+            "image": "/assets/11_4_Cost_Management.webp",
+            "description": "Conduct financial analysis to assess revenue streams, cost structures, and profitability drivers for aviation. Analyzes key performance indicators (KPIs) such as revenue per client, cost per service, and profit margins to identify areas for improvement and optimization."
+          },
+          {
+            "title": "Sector Planning",
+            "image": "/assets/11_5_Sector_Planning.webp",
+            "description": "Develops strategic plans for the aviation sector to enhance operational efficiency and long-term growth. Provides insights into market dynamics and future trends."
+          },
+          {
+            "title": "Receivable/ Payable Management",
+            "image": "/assets/11_6_Payable_Management.webp",
+            "description": "Helps in reviewing policies, procedures, and segregation of duties to identify weaknesses and recommend improvements. Assists in implementing fraud prevention measures and detecting potential fraud related to receivable and payment transactions."
+          },
+          {
+            "title": "Payroll Management",
+            "image": "/assets/11_7_Payroll_Management.webp",
+            "description": "Performs internal controls testing, reconciliation of payroll accounts, and sample testing of payroll transactions to identify errors, discrepancies, or potential fraud risks. Conducts payroll audits and reviews the accuracy and integrity of payroll data and processes."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "projects",
+    "title": "Projects"
+  },
+  {
+    "slug": "contact",
+    "isBtn": true,
+    "title": "Contact Us"
+  }
+]
